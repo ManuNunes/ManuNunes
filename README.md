@@ -1,19 +1,17 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
 
-
-My name is Manuelly Suzik. I work as a TECNICA EM INFRAESTRUTURA DE TI at AM3 SOLUÇÕES LTDA.
+Me chamo Manuelly Suzik.Trabalho atualmente como TECNICA EM INFRAESTRUTURA DE TI na AM3 SOLUÇÕES LTDA.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Manuenunes&repo=Manuenunes&countColorcountColor)
 
-### Languages & Tools 🛠  
+### Stacks e Linguagens 🛠  
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green)&nbsp;![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&color=green)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=green)&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&color=green)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;  
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&color=orange)&nbsp;![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&color=orange)&nbsp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&color=orange)&nbsp;  
 ![infraestrutura](https://img.shields.io/badge/-infraestrutura-05122A?style=flat&color=gray)&nbsp;![RMM](https://img.shields.io/badge/-RMM-05122A?style=flat&color=gray)&nbsp;  
 
 
-### Analytics ⚙️
+### Análises ⚙️
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuenunes&layout=compact&count_private=true)
 
@@ -21,7 +19,7 @@ My name is Manuelly Suzik. I work as a TECNICA EM INFRAESTRUTURA DE TI at AM3 SO
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Manuenunes&hide_border=true)
 
-### Let's connect? 🤝
+### Me acompanhe fora daqui 🤝
 
 <p align="left">
 
