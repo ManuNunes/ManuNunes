@@ -25,12 +25,7 @@
 
 ![](https://img.shields.io/github/followers/manununes?style=social)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manununes&layout=compact)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manununes&show_icons=true&theme=nightowl)
 
-## Números ⚙️
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manununes&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manununes&show_icons=true&theme=nightowl)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Manununes&hide_border=false)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manununes)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Manununes&hide_border=false)![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manununes)
 
