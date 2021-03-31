@@ -9,7 +9,7 @@
 * Curiosa, persistente e completamente apaixonada por tecnologia!
 ----------------------------
 
-<a href="https://linkedin.com/in/manuellysuzik"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a><a href="@manuellysuzik"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a><a href="https://www.facebook.com/manuellysuzik.nunesmelo/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+<a href="https://linkedin.com/in/manuellysuzik"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a><a href="https://www.instagram.com/manuellysuzik/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a><a href="https://www.facebook.com/manuellysuzik.nunesmelo/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 
 
 ### Linguagens 
