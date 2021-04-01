@@ -24,7 +24,6 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1483053257/1538/bootstrap.png?1483053257" width="60"></img>
 <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="60"></img>
 
-![](https://img.shields.io/github/followers/manununes?style=social)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manununes&layout=compact)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manununes&show_icons=true&theme=slateorange)
 
