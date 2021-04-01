@@ -27,5 +27,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manununes&layout=compact)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manununes&show_icons=true&theme=slateorange)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=manununes&hide_border=false)![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manununes&range=last_3_days)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=manununes&hide_border=false)![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manununes)
 
