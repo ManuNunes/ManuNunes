@@ -4,7 +4,7 @@
 
 # Manuelly Suzik Aqui !
 ## Quem eu sou?
-*~~Batman~~
+* ~~Batman~~
 * Estudante de Bacharelado em Sistemas de Informação - 4ª Período
 * Entusiasta em desenvolvimento WEB
 * Curiosa, persistente e completamente apaixonada por tecnologia!
