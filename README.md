@@ -26,7 +26,10 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="60"></img>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manununes&layout=compact)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manununes&show_icons=true&theme=slateorange)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manununes&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manununes&show_icons=true&theme=slateorange)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=manununes&hide_border=false)![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manununes)
-
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=manununes&hide_border=false)
+<picture>
+  <img src="https://wakatime.com/share/@manununes/b7a1d8f1-fb0f-49c2-b1f9-b7eafc741ba6.svg" alt="Wakatime Manuelly Suzik" height="500" style="border-radius:15px;">
+</picture>
