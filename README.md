@@ -33,7 +33,7 @@
 
 ## MINHAS EXPERIÊNCIAS
 <p> Sou estudante do <strong>5ª Período de Bacharelado em Sistemas de informação</strong> pela Universidade Cruzeiro do Sul e já desenvolvi e acompanhei alguns projetos que podem ser encontrados no meu github. A maioria desses projetos são para Backend; testes executados para processos seletivos ou projetos pessoais em desenvolvimento e para a faculdade.Todos esses projetos são desenvolvidos unicamente por mim, resultado de minhas pesquisas e estudos na área. </p>
-----------------------------
+
 ### PODEMOS NOS CONECTAR POR AQUI:
 <a href="https://linkedin.com/in/manuellysuzik"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a><a href="https://www.instagram.com/manuellysuzik/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a><a href="https://www.facebook.com/manuellysuzik.nunesmelo/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 
