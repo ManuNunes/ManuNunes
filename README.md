@@ -20,19 +20,21 @@
 ## QUEM EU SOU?
 * ~~Batman~~
 * Estudante de Bacharelado em Sistemas de Informação - 5ª Período
-* Quero sempre aprender uma coisa nova por isso é bem provável que daqui a alguns minutos essas informações já estejam desatualizadas
+* Desenvolvedora Backend pela Nave
+* Desenvolvedora Python pela PA LATINOAMERICANA
 * Curiosa, persistente e completamente apaixonada por tecnologia!
 
 ## O QUE ANDO APRONTANDO?
-* Participando da Academia Accenture & Gama Academy na turma 1 de SAP BW
-* Estudando a disciplina de Inteligência Artificial na Faculdade
+* Estudando sobre microserviços, cloud e flask
+* Aprendendo tudo sobre modelagem e estrutura de dados
 * Aprofundando meus conhecimentos em TypeScript para trabalhar com NODE
 * Desbravando o frontend com styled-components e ReactJS , Adonis, SSG ,SSR...
-* Aprendendo conceitos e utilização de docker / kubernets nos projetos
+* Aprendendo conceitos e utilização de docker , kubernets nos projetos
+* Me aventurando no Kafka
 ### ...POR FIM
 
 ## MINHAS EXPERIÊNCIAS
-<p> Sou estudante do <strong>5ª Período de Bacharelado em Sistemas de informação</strong> pela Universidade Cruzeiro do Sul e já desenvolvi e acompanhei alguns projetos que podem ser encontrados no meu github. A maioria desses projetos são para Backend; testes executados para processos seletivos ou projetos pessoais em desenvolvimento e para a faculdade.Todos esses projetos são desenvolvidos unicamente por mim, resultado de minhas pesquisas e estudos na área. </p>
+<p> Sou estudante do <strong>5ª Período de Bacharelado em Sistemas de informação</strong> pela Universidade Cruzeiro do Sul e trabalho como desenvolvedora A2 na Nave , assim como desenvolvedora python na PA LATINOAMERICANA. Já desenvolvi e acompanhei alguns projetos que podem ser encontrados no meu github. A maioria desses projetos são para Backend; testes executados para processos seletivos ou projetos pessoais em desenvolvimento e para a faculdade.Todos esses projetos são desenvolvidos unicamente por mim, resultado de minhas pesquisas e estudos na área. </p>
 
 ### PODEMOS NOS CONECTAR POR AQUI:
 <a href="https://linkedin.com/in/manuellysuzik"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a><a href="https://www.instagram.com/manuellysuzik/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a><a href="https://www.facebook.com/manuellysuzik.nunesmelo/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
