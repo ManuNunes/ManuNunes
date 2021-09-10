@@ -20,9 +20,10 @@
 ## QUEM EU SOU?
 * ~~Batman~~
 * Bacharelanda em Sistemas de Informação - 5ª Período
-* Desenvolvedora Backend pela Nave
-* Desenvolvedora Python pela PA LATINOAMERICANA
 * Curiosa, persistente e completamente apaixonada por tecnologia!
+* Bem humorada, adoro ajudar pessoas a aprender mais sobre tecnologia no geral
+* Uma leve inclinação para embarcados
+* Uma amante incompreendida de robótica
 
 ## O QUE ANDO APRONTANDO?
 * Estudando sobre microserviços, cloud e flask
