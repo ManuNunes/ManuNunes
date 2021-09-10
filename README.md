@@ -4,7 +4,7 @@
 
   # Manuelly Suzik Aqui !
   ## O que eu faço?
-  <p>Desenvolvo backend (nível júnior ta?) de aplicações em Python e NODEJS com consumo de banco de dados, JWT, Rotas, Autenticação e etc... Atualmente busco uma oportunidade na área de desenvolvimento e as ferramentas que estudo e uso atualmente são:</p>
+  <p>Desenvolvo backend de aplicações em Python e NODEJS pela Nave e PA LATINOAMERICANA desde 06/2021</p>
 
 <img src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" width="60"></img>
 <img src="https://emojis.slackmojis.com/emojis/images/1533426774/4425/nodejs.png?1533426774" width="60"></img>
@@ -19,7 +19,7 @@
   
 ## QUEM EU SOU?
 * ~~Batman~~
-* Estudante de Bacharelado em Sistemas de Informação - 5ª Período
+* Bacharelanda em Sistemas de Informação - 5ª Período
 * Desenvolvedora Backend pela Nave
 * Desenvolvedora Python pela PA LATINOAMERICANA
 * Curiosa, persistente e completamente apaixonada por tecnologia!
