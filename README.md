@@ -4,7 +4,7 @@
 
   # Manuelly Suzik Aqui !
   ## O que eu faço?
-  <p>Desenvolvo backend de aplicações em Python e NODEJS pela Nave e PA LATINOAMERICANA desde 06/2021</p>
+  <p>Desenvolvo backend de aplicações em Python e NODEJS desde 06/2021</p>
 
 <img src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" width="60"></img>
 <img src="https://emojis.slackmojis.com/emojis/images/1533426774/4425/nodejs.png?1533426774" width="60"></img>
