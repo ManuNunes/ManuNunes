@@ -40,11 +40,12 @@
 ### PODEMOS NOS CONECTAR POR AQUI:
 <a href="https://linkedin.com/in/manuellysuzik"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a><a href="https://www.instagram.com/manuellysuzik/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a><a href="https://www.facebook.com/manuellysuzik.nunesmelo/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=manununes)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuellysuzik&langs_count=8&layout=compact&theme=buefy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuellysuzik&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuellysuzik&layout=compact)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=manuellysuzik&hide_border=false&theme=buefy&count_private=true)
+![manuelly github stats](https://github-readme-stats.vercel.app/api?username=manuellysuzik&show_icons=true&theme=buefy&count_private=true&hide=issues,contribs)
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=manununes&layout=compact&langs_count=10&theme=buefy)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=manuellysuzik&hide_border=false)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuellysuzik&show_icons=true&theme=slateorange)
+
+
