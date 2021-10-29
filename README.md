@@ -40,11 +40,11 @@
 ### PODEMOS NOS CONECTAR POR AQUI:
 <a href="https://linkedin.com/in/manuellysuzik"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a><a href="https://www.instagram.com/manuellysuzik/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a><a href="https://www.facebook.com/manuellysuzik.nunesmelo/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manununes)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuellysuzik&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuellysuzik&show_icons=true&theme=slateorange)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuellysuzik&layout=compact)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=manuellysuzik&hide_border=false)
-<picture>
-  <img src="https://wakatime.com/share/@manununes/b7a1d8f1-fb0f-49c2-b1f9-b7eafc741ba6.svg" alt="Wakatime Manuelly Suzik" height="500" style="border-radius:15px;">
-</picture>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuellysuzik&show_icons=true&theme=slateorange)
