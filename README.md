@@ -14,7 +14,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" width="60"></img>
 
 ### Frameworks que já me aventurei
-<img src="https://emojis.slackmojis.com/emojis/images/1483053257/1538/bootstrap.png?1483053257" width="60"></img>
+<img src="https://symbols-electrical.getvecta.com/stencil_25/5_bootstrap.2d943949da.svg" width="60"></img>
 <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="60"></img>
 <img src="https://symbols-electrical.getvecta.com/stencil_73/35_adonisjs-icon.6b456fe2da.svg" width="60"></img>
 <img src="https://symbols-electrical.getvecta.com/stencil_89/37_nestjs-icon.115e595222.svg" width="60"></img>
