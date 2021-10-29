@@ -4,7 +4,7 @@
 
   # Manuelly Suzik Aqui !
   ## O que eu faço?
-  <p>Desenvolvo backend de aplicações em Python e NODEJS pela Nave e PA LATINOAMERICANA desde 06/2021</p>
+  <p>Desenvolvedora Backend em Python e Javascript desde 06/2021</p>
 
 ----------------------------------------------------------------
 ### Já desenvolvi algo com...
