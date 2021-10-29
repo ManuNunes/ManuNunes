@@ -6,17 +6,24 @@
   ## O que eu faço?
   <p>Desenvolvo backend de aplicações em Python e NODEJS pela Nave e PA LATINOAMERICANA desde 06/2021</p>
 
+----------------------------------------------------------------
+### Já desenvolvi algo com...
 <img src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" width="60"></img>
 <img src="https://emojis.slackmojis.com/emojis/images/1533426774/4425/nodejs.png?1533426774" width="60"></img>
 <img src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" width="60"></img>
 <img src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" width="60"></img>
-<img src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" width="60"></img>
 
-  ### Frameworks
+### Frameworks que já me aventurei
 <img src="https://emojis.slackmojis.com/emojis/images/1483053257/1538/bootstrap.png?1483053257" width="60"></img>
 <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="60"></img>
-
+<img src="https://symbols-electrical.getvecta.com/stencil_73/35_adonisjs-icon.6b456fe2da.svg" width="60"></img>
+<img src="https://symbols-electrical.getvecta.com/stencil_89/37_nestjs-icon.115e595222.svg" width="60"></img>
+<img src="https://symbols-electrical.getvecta.com/stencil_86/38_koa.3f7b7dba96.svg" width="60"></img>
+<img src="https://symbols-electrical.getvecta.com/stencil_79/87_expressjs.8fe66a22d7.svg" width="100"></img>
   
+### Outros conhecimentos..
+<img src="https://symbols-electrical.getvecta.com/stencil_78/88_docker-official.644ef41633.svg" width="100"></img>
+<img src="https://symbols-electrical.getvecta.com/stencil_74/95_arduino.fa47c14cbd.svg" width="100"></img>
 ## QUEM EU SOU?
 * ~~Batman~~
 * Bacharelanda em Sistemas de Informação - 5ª Período
