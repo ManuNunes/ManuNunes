@@ -53,9 +53,16 @@
 <img src="https://symbols-electrical.getvecta.com/stencil_85/48_json.6ae94f404a.svg" width="100"></img>
 
 ---
-### PODEMOS NOS CONECTAR POR AQUI:
-<a href="https://linkedin.com/in/manuellysuzik"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a><a href="https://www.instagram.com/manuellysuzik/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a><a href="https://www.facebook.com/manuellysuzik.nunesmelo/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+### OUTROS LUGARES ONDE ME ENCONTRAR
+<br>
+<a href="https://linkedin.com/in/manuellysuzik">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/manuellysuzik/">
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/manuellysuzik.nunesmelo/">
+<img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuellysuzik&langs_count=8&layout=compact&theme=buefy)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=manuellysuzik&hide_border=false&theme=buefy&count_private=true)
