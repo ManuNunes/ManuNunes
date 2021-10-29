@@ -44,7 +44,7 @@
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=manuellysuzik&hide_border=false&theme=buefy&count_private=true)
 ![manuelly github stats](https://github-readme-stats.vercel.app/api?username=manuellysuzik&show_icons=true&theme=buefy&count_private=true&hide=issues,contribs)
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=manununes&layout=compact&langs_count=10&theme=buefy)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=manununes&layout=compact&langs_count=10&theme=buefy)](https://github-readme-stats.vercel.app/api/wakatime?username=manununes&layout=compact&langs_count=10&theme=buefy)
 
 
 
