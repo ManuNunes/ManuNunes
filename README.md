@@ -5,31 +5,22 @@
   # Manuelly Suzik Aqui !
   ## O que eu faço?
 
-  <p>Desenvolvo API's Backend em Python e Javascript profissionalmente desde 06/2021</p>
+  <p>Backend Enginner , trabalho com tecnologias de LiveOps, Performance e Observabilidade</p>
 
 ----------------------------------------------------------------
 
 ## QUEM EU SOU?
 * ~~Batman~~
-* Bacharelanda em Sistemas de Informação - 5ª Período
+* Bacharelanda em Sistemas de Informação ( último ano finalmente )
 * Curiosa, persistente e completamente apaixonada por tecnologia!
-* Bem humorada, adoro ajudar pessoas a aprender mais sobre tecnologia no geral
-* Uma leve inclinação para embarcados
+* Gosto de compartilhar conhecimento sempre, por isso também dou aulas iniciais de backend para mulheres
+* Adoro também IoT
 * Uma amante incompreendida de robótica
-
----
-## O QUE ANDO APRONTANDO?
-* Estudando sobre microserviços e cloud
-* Aprendendo tudo sobre modelagem e estrutura de dados
-* Aprofundando meus conhecimentos em TypeScript
-* Desbravando o frontend com ReactJS, SSG ,SSR...
-* Aprendendo conceitos e utilização de docker , kubernets nos projetos
-* Me aventurando no Kafka
 
 ---
 ### ...POR FIM
 ## MINHAS EXPERIÊNCIAS
-<p> Sou estudante do <strong>5ª Período de Bacharelado em Sistemas de informação</strong> pela Universidade Cruzeiro do Sul e trabalho como desenvolvedora. Já desenvolvi e acompanhei alguns projetos que podem ser encontrados no meu github. A maioria desses projetos são para Backend; testes executados para processos seletivos ou projetos pessoais em desenvolvimento e para a faculdade.Todos esses projetos são desenvolvidos unicamente por mim, resultado de minhas pesquisas e estudos na área. </p>
+<p> Sou estudante de Sistemas de informação</strong> pela Universidade Cruzeiro do Sul e trabalho como Backend Engineer na Wildlife Studios desde 2022. Já desenvolvi e acompanhei alguns projetos que podem ser encontrados no meu github. Tenho diversas experiências em CI/CD, Deployment de aplicações e microsserviços, na maioria das vezes seguindo práticas de DDD, Clean Architecture e Clean Code...</p>
 
 ### Já desenvolvi algo com...
 <img src="https://symbols-electrical.getvecta.com/stencil_25/39_javascript.bb3179952d.svg" width="60"></img>
