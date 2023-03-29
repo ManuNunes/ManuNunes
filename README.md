@@ -5,44 +5,51 @@
   # Manuelly Suzik Aqui !
   ## O que eu faço?
 
-  <p>Backend Enginner , trabalho com tecnologias de LiveOps, Performance e Observabilidade</p>
+  <p>Backend Engineer. Trabalho com diversas linguagens de programação, Agile, DDD e Clean Code</p>
 
 ----------------------------------------------------------------
 
 ## QUEM EU SOU?
 * ~~Batman~~
-* Bacharelanda em Sistemas de Informação ( último ano finalmente )
-* Curiosa, persistente e completamente apaixonada por tecnologia!
-* Gosto de compartilhar conhecimento sempre, por isso também dou aulas iniciais de backend para mulheres
-* Adoro também IoT
-* Uma amante incompreendida de robótica
+* Bacharelanda em Sistemas de Informação
+* Professora de programação para mulheres pela [Reprograma](https://reprograma.com.br/)
+* Jogadora de Valorant e RPG
+* Amante incompreendida de robótica
 
 ---
 ### ...POR FIM
 ## MINHAS EXPERIÊNCIAS
-<p> Sou estudante de Sistemas de informação</strong> pela Universidade Cruzeiro do Sul e trabalho como Backend Engineer na Wildlife Studios desde 2022. Já desenvolvi e acompanhei alguns projetos que podem ser encontrados no meu github. Tenho diversas experiências em CI/CD, Deployment de aplicações e microsserviços, na maioria das vezes seguindo práticas de DDD, Clean Architecture e Clean Code...</p>
+<p> Sou estudante de Sistemas de informação</strong>e trabalho como Backend Engineer na Wildlife Studios desde 2022. Já desenvolvi e acompanhei alguns projetos que podem ser encontrados no meu github. Tenho experiências com CI/CD, microsserviços, DDD, Arquitetura Hexagonal, Clean Code e Clean Architecture. </p>
 
-### Já desenvolvi algo com...
-<img src="https://symbols-electrical.getvecta.com/stencil_25/39_javascript.bb3179952d.svg" width="60"></img>
-<img src="https://symbols-electrical.getvecta.com/stencil_89/63_nodejs.fd495aabed.svg" width="100"></img>
-<img src="https://symbols-electrical.getvecta.com/stencil_25/35_html5.a8680135ba.svg" width="60"></img>
-<img src="https://symbols-electrical.getvecta.com/stencil_92/75_python-vertical.3461c3be45.svg" width="60"></img>
+### Já desenvolvi utilizando
+- Javascript
+- Golang
+- Python
+- Ruby
+
 
 ### Frameworks que já me aventurei
-<img src="https://symbols-electrical.getvecta.com/stencil_25/5_bootstrap.2d943949da.svg" width="60"></img>
-<img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="60"></img>
-<img src="https://symbols-electrical.getvecta.com/stencil_73/35_adonisjs-icon.6b456fe2da.svg" width="60"></img>
-<img src="https://symbols-electrical.getvecta.com/stencil_89/37_nestjs-icon.115e595222.svg" width="60"></img>
-<img src="https://symbols-electrical.getvecta.com/stencil_86/38_koa.3f7b7dba96.svg" width="60"></img>
-<img src="https://symbols-electrical.getvecta.com/stencil_79/87_expressjs.8fe66a22d7.svg" width="100"></img>
-<img src="https://symbols-electrical.getvecta.com/stencil_80/57_flask.688d06cd2b.svg" width="100"></img>
+- NESTJS
+- Express
+- Ruby On Rails
+- Flask
+- Django
+- Gin
+- Echo
 
 ### Outros conhecimentos..
-<img src="https://symbols-electrical.getvecta.com/stencil_78/88_docker-official.644ef41633.svg" width="100"></img>
-<img src="https://symbols-electrical.getvecta.com/stencil_74/95_arduino.fa47c14cbd.svg" width="100"></img>
-<img src="https://symbols-electrical.getvecta.com/stencil_85/19_jest.4eb3b5ae53.svg" width="100"></img>
-<img src="https://symbols-electrical.getvecta.com/stencil_85/48_json.6ae94f404a.svg" width="100"></img>
 
+- Domain Driven Design
+- Arquitetura Hexagonal
+- Testes Unitários
+- Testes de Integração
+- PostgreSQL
+- MongoDB
+- ORM
+- Typescript
+- CI/CD
+- Terraform
+- Databricks...
 ---
 ### OUTROS LUGARES ONDE ME ENCONTRAR
 <br>
