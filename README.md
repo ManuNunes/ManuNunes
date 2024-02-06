@@ -11,7 +11,7 @@
 
 ## QUEM EU SOU?
 * ~~Batman~~
-* Bacharelanda em Sistemas de Informação
+* Bacharel em Sistemas de Informação
 * Professora de programação para mulheres pela [Reprograma](https://reprograma.com.br/)
 * Jogadora de Valorant e RPG
 * Amante incompreendida de robótica
@@ -19,7 +19,7 @@
 ---
 ### ...POR FIM
 ## MINHAS EXPERIÊNCIAS
-<p> Sou estudante de Sistemas de informação</strong>e trabalho como Backend Engineer na Wildlife Studios desde 2022. Já desenvolvi e acompanhei alguns projetos que podem ser encontrados no meu github. Tenho experiências com CI/CD, microsserviços, DDD, Arquitetura Hexagonal, Clean Code e Clean Architecture. </p>
+<p> Formada desde 2023 em Sistemas de informação</strong>. Trabalho como Backend Engineer no @MercadoLivre desde 2023. Já desenvolvi e acompanhei alguns projetos que podem ser encontrados no meu github. Tenho experiências com CI/CD, microsserviços, DDD, Arquitetura Hexagonal, Clean Code e Clean Architecture. </p>
 
 ### Já desenvolvi utilizando
 - Javascript
